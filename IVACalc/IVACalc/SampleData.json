@@ -1,0 +1,40 @@
+﻿{
+  "MainPage.xaml": [
+    {
+      "Amount": 100.00,
+      "VatRate": 21.00,
+      "VatIncluded": true,
+      "VatIncludedForHumans": "Sí", 
+      "VatBase": 100.00,
+      "VatAmount": 21.00,
+      "TotalAmount": 121.00
+    },
+    {
+      "Amount": 100.00,
+      "VatRate": 21.00,
+      "VatIncluded": false,
+      "VatIncludedForHumans": "No", 
+      "VatBase": 84.64,
+      "VatAmount": 17.34,
+      "TotalAmount": 100.00
+    },
+    {
+      "Amount": 100.00,
+      "VatRate": 10.00,
+      "VatIncluded": true,
+      "VatIncludedForHumans": "Sí", 
+      "VatBase": 100.00,
+      "VatAmount": 10.00,
+      "TotalAmount": 110.00
+    },
+    {
+      "Amount": 100.00,
+      "VatRate": 4.00,
+      "VatIncluded": false,
+      "VatIncludedForHumans": "Sí", 
+      "VatBase": 100.00,
+      "VatAmount": 4.00,
+      "TotalAmount": 104.00
+    }
+  ]
+}
