@@ -20,10 +20,6 @@
             </Style>
         </ResourceDictionary>
     </ContentPage.Resources>
-    <!--<ContentPage.ToolbarItems>
-        <ToolbarItem Order="Primary" Icon="Microsoft.png" Text="Item 1" Priority="0" />
-        <ToolbarItem Order="Primary" Icon="Xamarin.png" Text="Item 2" Priority="1" />
-    </ContentPage.ToolbarItems>-->
     <StackLayout>
 
         <!--<Label Text="Calculadora de IVA" FontSize="20" VerticalOptions="Center" HorizontalTextAlignment="Center" />
